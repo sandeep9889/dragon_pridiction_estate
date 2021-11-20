@@ -1,0 +1,20 @@
+model 1 outputs
+
+decision_tree:
+scores [4.8878408  4.15540701 5.18475924 6.27306608 3.41968566]
+mean 4.78415175673385
+sd 0.9638663106659062
+
+
+model 2 output
+
+linear_regreesion:
+mean 5.048854983649858
+sd 0.7426965747933648
+
+
+model 3 output
+
+randomforestregressor:
+mean 3.380983506828687
+sd 0.47881994909481274
