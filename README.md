@@ -35,3 +35,6 @@ so he we have to predict a data of house so we use regresion
            it work good because its show less error 
            and show good prediction 
          ----- i build a model a name as  dragon.joblib
+         
+         
+------- go open the file in jupyter or google colab notebook dragon_pridictor.ipynb             
